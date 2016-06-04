@@ -48,7 +48,7 @@ p a {
     text-decoration: underline
 }
 #splash {
-    position: relative
+    position: relative;
 }
 .curve {
     position: absolute;
@@ -207,8 +207,10 @@ p a {
 .head-section {
     height: 800px;
     margin: 0;
-    background-position: center top;
-    background-color: #f36d24
+    //background-position: center top;
+    //background-color: #f36d24;
+background-image: url('../image.jpg');
+background-size: 100% auto;
 }
 .head-section .head-text {
     text-align: center;
