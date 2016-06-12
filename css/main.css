@@ -19,6 +19,7 @@ body {
     color: #5F5F5F;
     margin: 0
 }
+
 h1 {
     color: #f36d24;
     font-family: HalisR-Regular;
@@ -113,6 +114,7 @@ p a {
     padding: 0 0 20px 0;
     margin-bottom: -20px
 }
+
 #timeline-wrapper td {
     vertical-align: top;
     height: 150px;
